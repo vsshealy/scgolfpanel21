@@ -1,4 +1,5 @@
 .DS_Store
 archive
+images
 node_modules
 vendor
